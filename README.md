@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **frontend developer**
 
-- 🌱 I’m currently learning **Javascript,react.js**
+- 🌱 I’m currently learning **Java,Angular.js**
 
 - 💬 Ask me about **frontend developing**
 
