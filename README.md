@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jeeva-p-637323230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeeva.p" height="30" width="40" /></a>
-<a href="https://fb.com/jeeva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jeeva" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100020228845862" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jeeva" height="30" width="40" /></a>
 <a href="https://www.instagram.com/jiiva.___.79/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@jiiva.__.79" height="30" width="40" /></a>
 </p>
 
@@ -28,4 +28,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeeva79&show_icons=true&locale=en&layout=compact" alt="jeeva79" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeeva79&show_icons=true&locale=en" alt="jeeva79" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jeeva79&show_icons=true&locale=en" alt="jeeva79" /></p>
